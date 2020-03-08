@@ -4,6 +4,7 @@ export default [
     name       : {$$: 'Rat Skull' },
     description: {
       en: 'This rat skull is a useful tool for beginning mages. Mages sometimes experiment on the bones of long-dead creatures to produce a focusing vessel.',
+      fr: 'Ce crâne de rat est un outil utile pour les mages débutants. Les mages expérimentent parfois sur les os de créatures mortes depuis longtemps pour produire un récipient de concentration.',
       hu: 'Ez a patkánykoponya kiválóan alkalmas kezdő mágusok számára. A varázslók olykor régi csontok szemgödrein kísérleteznek, hogy jobban összpontosíthassanak.',
       ru: 'Это череп крысы - полезный инструмент для начинающих магов. Иногда маги экспериментируют с костями долгоживущих существ, чтобы создать фокусирующийся сосуд.',
       de: 'Dieser Rattenschädel ist ein nützliches Hilfsmittel für beginnende Magier. Magier experimentieren manchmal mit den Knochen von längst toten Kreaturen, um ein Fokussiergefäß zu erzeugen.',
@@ -16,6 +17,7 @@ export default [
     name       : {$$: 'Crystal Globe' },
     description: {
       en: 'These globes are used for a variety of magical tasks. This is a classic device for magic users.',
+      fr: 'Ces globes sont utilisés pour une variété de tâches magiques. Il s\'agit d\'un appareil classique pour les utilisateurs de la magie.',
       hu: 'A kristálygömb százféle mágikus munkára fölhasználható. Ez minden varázshasználók kedvenc eszköze.',
       ru: 'Эти сферы используются для различных магических задач. Это классический инструмент для волшебников.',
       de: 'Diese Kugeln werden für eine Vielzahl von magischen Aufgaben verwendet. Dies ist ein klassisches Hilfsmittel für magische Anwender.',
@@ -28,6 +30,7 @@ export default [
     name       : {$$: 'Seer\'s Stone' },
     description: {
       en: 'The internal magic of these stones allow wise men to protect themselves during scrying and other seer activities.',
+      fr: 'La magie interne de ces pierres permet aux sages de se protéger pendant les prédictions d\'avenir et les autres activités des voyants.',
       hu: 'Ezen kövek pokoli ereje megvédi a bölcseket, amíg hatalmas erőfeszítéssel a mágiára megfogására összpontosítanak.',
       ru: 'Внутренняя магия этих камней позволяет мудрецам защитить себя во время охоты и других провидческих действий.',
       de: 'Die innere Magie dieser Steine erlaubt es Weisen, sich während des Scrying und anderer Seheraktivitäten zu schützen.',
@@ -40,6 +43,7 @@ export default [
     name       : {$$: 'Philosopher\'s Stone' },
     description: {
       en: 'Rumors about immortality and transmutation inspired magic users to experiment and create stones such as this. These orbs became useful in augmenting magical power despite the experimental results falling short of the original intentions.',
+      fr: 'Les rumeurs sur l\'immortalité et la transmutation ont inspiré les utilisateurs de la magie à expérimenter et à créer des pierres comme celle-ci. Ces orbes sont devenues utiles pour augmenter la puissance magique bien que les résultats expérimentaux n\'ont pas atteint leurs intentions originales.',
       hu: 'A halhatatlanság évezredes pletykája sok varázslót arra ösztönzött, hogy maguk is efféle eszközök elkészítésével kísérletezzenek. Ezek a kövek ugyan képesek a energiákat fókuszálni, de sajnálatos módon eredeti funkciójukat soha nem töltik be.',
       ru: 'Слухи о бессмертии и трансмутации вдохновляли волшебников экспериментировать и создавать такие камни. Эти шары стали полезны для увеличения магической силы, несмотря на экспериментальные результаты, не соответствующие первоначальным намерениям.',
       de: 'Gerüchte über Unsterblichkeit und Transmutation inspirierten magische Benutzer zum Experimentieren und Gestalten solcher Steine. Diese Kugeln wurden zur Verstärkung der magischen Kraft verwendet, obwohl die experimentellen Ergebnisse nicht den ursprünglichen Absichten entsprachen.',
@@ -52,6 +56,7 @@ export default [
     name       : {$$: 'Cyclops\'s Eye' },
     description: {
       en: 'This is a fantastic magical component that is easily enchanted. Handy items such as this often come with innate powers and can frequently be found in trade shipments between merchants.',
+      fr: 'Il s\'agit d\'un fantastique composant magique qui s\'enchante facilement. Des objets pratiques tels que celui-ci sont souvent dotés de pouvoirs innés et peuvent être fréquemment trouvés dans les envois commerciaux entre marchands.',
       hu: 'Elképesztően könnyű elbűvölni ezt a mágikus komponenst. Ezek a hasznos tárgyak gyakorta rendelkeznek önálló, veleszületett képességekkel, és áruk mérvadó a tengeri kereskedelemben.',
       ru: 'Это фантастический магический компонент, который легко очаровывает. Такие удобные предметы, как этот, часто имеют врожденные силы и часто встречаются в товарах у торговцев.',
       de: 'Dies ist eine fantastische magische Komponente, die leicht zu verzaubern ist. Nützliche Gegenstände wie diese haben oft natürliche Kräfte und sind häufig in Handelssendungen zwischen Händlern zu finden.',
