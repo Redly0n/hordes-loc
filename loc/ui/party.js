@@ -341,6 +341,7 @@ export default {
   },
 
   noParty: {
-    en: 'No Party'
+    en: 'No Party',
+    fr: 'Aucune Party'
   }
 }
